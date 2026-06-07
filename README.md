@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Graph showing exact sin/cos offsets on standard unit circles.
+  name: unit-circle-trig-helper version: 1.0 type: Repository author: VarshuAi description: >   Graph showing exact sin/cos offsets on standard unit circles. primary_tech: CSS
 primary_tech: CSS
 ```
 
